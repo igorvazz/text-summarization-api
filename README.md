@@ -1,4 +1,4 @@
-# Test-Driven Development of a text summarized service with FastAPI and Docker
+# Test-Driven Development of a text summarization service with FastAPI and Docker
 
 an asynchronous text summarization API with Test-Driven Development
 
